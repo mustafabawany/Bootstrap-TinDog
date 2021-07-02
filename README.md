@@ -22,4 +22,4 @@ We’re going to build a modern landing page.
 ## Software Used
 - Visual Studio Code
 
-You can run this website using following like https://mustafabawany.github.io/TinDog/
+To run this website use the following link https://mustafabawany.github.io/TinDog/
