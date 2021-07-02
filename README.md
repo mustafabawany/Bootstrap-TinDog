@@ -10,7 +10,7 @@ The objective of this tutorial is to learn how to incorporate Bootstrap into our
 
 We’re going to build a modern landing page.
 
-![Finished Website](![image](https://media.giphy.com/media/sKPFr4HctsrCVc9xTZ/giphy.gif)
+![Finished Website](https://media.giphy.com/media/sKPFr4HctsrCVc9xTZ/giphy.gif)
 )
 
 ## Tools Used
